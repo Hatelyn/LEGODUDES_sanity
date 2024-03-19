@@ -1,2 +1,2 @@
-# LEGODUDS_sanity
+# LEGODUDES_sanity
 Sanity utvikling av legodudes webshop
